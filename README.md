@@ -20,7 +20,7 @@ From my testing with some friends of mine, I have found that there are some comm
 
 *(3)* **Don't be alarmed if/when the program kicks you out to your browser and asks you to login to your Spotify account.** It will ask you to allow the program to modify your queue. You must provide permission so that the program can do its thing.
 
-*(4)* **It is critical that you have a device (i.e., phone or laptop) actively playing music on Spotify to allow the program to work.** This essentially sets your "Active Device" which the program will coordinate with to add to your queue. If you don't have music playing, then the program won't be able to add to the queue. *(THIS IS THE MOST COMMON ISSUE)*
+*(4)* **It is critical that you have a device (i.e., phone or laptop) actively playing music on Spotify to allow the program to work properly.** This essentially sets your "Active Device" which the program will coordinate with to add to your queue. If you don't have music playing, then the program won't be able to add to the queue. *(THIS IS THE MOST COMMON ISSUE)*
 
 *(5)* **Be sure to fullscreen the application so you can make the most of the logo/title.** :)
 
