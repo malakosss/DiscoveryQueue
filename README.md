@@ -28,5 +28,7 @@ From my testing with some friends of mine, I have found that there are some comm
 
 ## Coding Schtuff
 
+*I'd recommend that you reference the DiscoveryQueue.py file for the cold, hard code.*
 
+I referenced and made use of only the "spotipy" module when making DiscoveryQueue. It is a Python implementation of the Spotify API. You can see the spotipy documentation at **[THIS LINK](https://spotipy.readthedocs.io/en/2.17.1/)**.
 
