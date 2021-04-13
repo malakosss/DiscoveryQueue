@@ -14,7 +14,7 @@ I hope that you find it equally as useful and easy to use!
 
 From my testing with some friends of mine, I have found that there are some common pitfalls that may prove to be obstacles:
 
-*(1)* **Keep in mind that your browser or anti-virus will most likely think the .zip is a virus.** For what it's worth, I can tell you that it is not. Please see "Program Walkthrough" see screenshots of the program in action and the DiscoveryQueue.py file to see what exact lines that will be run.
+*(1)* **Keep in mind that your browser or anti-virus will most likely think whichever .zip you download is a virus.** For what it's worth, I can tell you that it is not. Please see "Program Walkthrough" see screenshots of the program in action and the DiscoveryQueue.py file to see what exact lines that will be run.
 
 *(2)* **I'd recommend that you export the Windows or macOS .zip file to a folder that includes the .exe file.** The .exe file will produce a user.cache file that will house your permission token (that gives the program permission to alter your queue).
 
