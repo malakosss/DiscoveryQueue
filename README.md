@@ -1,6 +1,13 @@
 # DiscoveryQueue
-Improve your Spotify game through this rapid method of song discovery
 
-## Here is This
+Improve your Spotify playlists through this rapid method of song discovery -- Happy hunting!
 
-### Here is That
+## Overview
+
+## Key Considerations
+
+## Program Walkthrough
+
+
+
+
