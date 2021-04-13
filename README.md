@@ -10,7 +10,7 @@ DiscoveryQueue works by having you provide a Starting Artist and then it adds th
 
 I hope that you find it equally as useful and easy to use!
 
-## Key Considerations
+## Key Considerations for Getting Started
 
 ## Program Walkthrough
 
