@@ -31,7 +31,10 @@ From my testing with some friends of mine, I have found that there are some comm
 Start off by choosing your Starting Artist. Make sure that you type in the name that would appear on Spotify (capitals and such included).
 
 **(2)**
-![stepOne](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepOne.JPG)
+![stepTwo](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepTwo.JPG)
+Next, you choose the number of songs you want added to your queue from the top 10 of each Related Artists (in this case, I chose to include the top 2 songs meaning the two songs at the top of the top 10). Also, you will have the option to choose the country where the top 10 songs are defined. So, by choosing "US" the program will base the Related Artists' top 10 from their most listened to songs in the US.
+
+
 ## Coding Schtuff
 
 *I'd recommend that you reference the DiscoveryQueue.py file for the cold, hard code.*
