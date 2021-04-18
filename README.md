@@ -27,7 +27,7 @@ From my testing with some friends of mine, I have found that there are some comm
 ## Program Walkthrough
 
 (1) You start off by choosing your Starting Artist. Make sure that you type in the name that would appear on Spotify (capitals and such included). 
-![stepOne](https://github.com/malakosss/DiscoveryQueue/images/StepOne.jpg?raw=true)
+![stepOne](https://github.com/malakosss/DiscoveryQueue/images/StepOne.JPG)
 
 ## Coding Schtuff
 
