@@ -36,13 +36,19 @@ Next, you choose the number of songs you want added to your queue from the top 1
 
 **(3a)**
 ![stepThree](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepThree_NoChooseRelatedArtists.JPG)
-If you decide to say "no", you will be asked to input the number (from 1 to 20) Related Artists that you would like to include. In this case, I chose 5 Related Artists and will have a queue produced out of the top songs of the 5 *immediately* related artists to the Starting Artist. 
+If you decide to say "no", you will be asked to input the number (from 1 to 20) of Related Artists that you would like to use to produce your queue. In this case, I chose 5 Related Artists and will have a queue produced out of the top songs of the 5 *immediately* Related Artists to the Starting Artist. *DONE!*
 
 
 **(3b) - Picking Your Related Artists**
 ![stepThreeYes](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepThree_ChooseRelatedArtists.JPG)
+If you decide to say "yes", then the twenty Related Artists will be printed for your viewing. They are numbered for your convienence when choosing your subsection to use for forming your queue.
+
 
 ![stepFourIndex](https://github.com/malakosss/DiscoveryQueue/blob/main/images/Artist_Index.JPG)
+First, define the index (number) of the Related Artist that you would like to start your subsection with. In this case, I chose to include the 10th Related Artist and to exclude those previouse Related Artists (1 throught 9). Next, define the index (number) of the Related Artist that you would like to end your subsection with. In this case, I chose to end the subsection with the 14th Related Artist.
+
+As a result of these inputs, a queue will be produced with the top songs from the 10th, 11th, 12th, 13th, and 14th Related Artist. *DONE!*
+
 
 ## Coding Schtuff
 
