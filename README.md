@@ -45,6 +45,7 @@ If you decide to say "yes", then the twenty Related Artists will be printed for 
 
 
 ![stepFourIndex](https://github.com/malakosss/DiscoveryQueue/blob/main/images/Artist_Index.JPG)
+
 First, define the index (number) of the Related Artist that you would like to start your subsection with. In this case, I chose to include the 10th Related Artist and to exclude those previouse Related Artists (1 throught 9). Next, define the index (number) of the Related Artist that you would like to end your subsection with. In this case, I chose to end the subsection with the 14th Related Artist.
 
 As a result of these inputs, a queue will be produced with the top songs from the 10th, 11th, 12th, 13th, and 14th Related Artist. *DONE!*
