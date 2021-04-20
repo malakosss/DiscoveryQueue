@@ -36,6 +36,8 @@ Next, you choose the number of songs you want added to your queue from the top 1
 
 **(3a)**
 ![stepThree](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepThree_NoChooseRelatedArtists.JPG)
+If you decide to say "no", you will be asked to input the number (from 1 to 20) Related Artists that you would like to include. In this case, I chose 5 Related Artists and will have a queue produced out of the top songs of the 5 *immediately* related artists to the Starting Artist. 
+
 
 **(3b) - Picking Your Related Artists**
 ![stepThreeYes](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepThree_ChooseRelatedArtists.JPG)
