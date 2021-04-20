@@ -10,6 +10,8 @@ DiscoveryQueue works by having you provide a Starting Artist and then it adds th
 
 I hope that you find it equally as useful and easy to use!
 
+**You just need to download either the .zip file that is labelled Windows or macOS depening on your operating system!**
+
 ## Key Considerations for Getting Started
 
 From my testing with some friends of mine, I have found that there are some common pitfalls that may prove to be obstacles:
