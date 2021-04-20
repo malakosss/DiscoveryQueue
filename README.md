@@ -32,7 +32,7 @@ Start off by choosing your Starting Artist. Make sure that you type in the name 
 
 **(2)**
 ![stepTwo](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepTwo.JPG)
-Next, you choose the number of songs you want added to your queue from the top 10 of each Related Artist (in this case, I chose to include the top 2 most played songs of the Related Artist). Also, you will have the option to choose the country by which the top 10 songs are defined. So, by choosing "US" the program will base the Related Artists' top 10 from their most listened to songs in the US.
+Next, you choose the number of songs you want added to your queue from the top 10 of each Related Artist (in this case, I chose to include the top 2 most played songs of each Related Artist). Also, you will have the option to choose the country by which the top 10 songs are defined. So, by choosing "US" the program will base the Related Artists' top 10 from their most listened to songs in the US.
 
 **(3a)**
 ![stepThree](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepThree_NoChooseRelatedArtists.JPG)
