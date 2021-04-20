@@ -41,7 +41,7 @@ If you decide to say "no", you will be asked to input the number (from 1 to 20) 
 
 **(3b) - Picking Your Related Artists**
 ![stepThreeYes](https://github.com/malakosss/DiscoveryQueue/blob/main/images/StepThree_ChooseRelatedArtists.JPG)
-If you decide to say "yes", then the twenty Related Artists will be printed for your viewing. They are numbered for your convienence when choosing your subsection to use for forming your queue.
+If you decide to say "yes", then the twenty Related Artists are printed for your viewing. They are numbered for choosing the subsection to use for forming your queue.
 
 
 ![stepFourIndex](https://github.com/malakosss/DiscoveryQueue/blob/main/images/Artist_Index.JPG)
